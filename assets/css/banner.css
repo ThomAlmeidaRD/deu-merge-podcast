@@ -1,0 +1,13 @@
+.banner{
+
+    padding: 10px;
+    background-color: rgb(108, 5, 186);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 30vh;
+    
+    
+}

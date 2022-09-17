@@ -1,0 +1,30 @@
+
+header{
+    display: flex;
+    justify-content: flex-start;
+    background-color: #fff;
+    
+}
+
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.navbar ul > li{
+    display: inline-block;
+    margin: 0px 8px;
+    text-transform: capitalize;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #000;
+}
